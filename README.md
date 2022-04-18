@@ -13,3 +13,4 @@ docker-compose down
 
 CONNECT:
 docker exec -it simple_nginx sh (for 00 configuration)
+docker exec -it simple_nginx_php_alpine sh (for 01 configuration)
