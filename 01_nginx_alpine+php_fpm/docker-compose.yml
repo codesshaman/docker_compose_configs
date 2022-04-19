@@ -8,4 +8,4 @@ services:
       - ./nginx/conf.d:/etc/nginx/conf.d/
     ports:
       - "8080:80"
-    container_name: nginx_test
+    container_name: nginx_alphine
