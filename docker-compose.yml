@@ -7,5 +7,5 @@ services:
       - ./public:/var/www/public
       - ./nginx/conf.d:/etc/nginx/conf.d/
     ports:
-      - "8080:80"
-    container_name: nginx_simple
+      - "80:80"
+    container_name: simple_nginx_html

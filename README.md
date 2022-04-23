@@ -12,5 +12,7 @@ STOP:
 docker-compose down
 
 CONNECT:
-docker exec -it nginx_simple sh (for 00 configuration)
-docker exec -it nginx_alphine sh (for 01 configuration)
+docker exec -it nginx_simple sh
+
+OPEN:
+http://localhost/
