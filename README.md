@@ -3,6 +3,12 @@ My training simple configs with docker compose
 
 Your need docker and docker-compose in your operation system.
 
+CLONE:
+git clone https://github.com/codesshaman/simple_docker_nginx_html.git
+
+GO TO FOLDER:
+cd simple_docker_nginx_html
+
 Every commands executed into the folder with docker-compose.yml file.
 
 RUN:
