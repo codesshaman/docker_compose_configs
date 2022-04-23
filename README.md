@@ -1,4 +1,4 @@
-# docker_compose_configs
+# docker_compose_config_NGINX_HTML
 My training simple configs with docker compose
 
 Your need docker and docker-compose in your operation system.
